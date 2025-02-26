@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f0f0;
+}
+
+h1, h2, h3 {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+a, p, ul, ol {
+    font-family: Arial, sans-serif;
+    font-size: medium;
+}
+
+.description, .ingredients, .steps {
+    width: 50%;
+}
